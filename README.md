@@ -1,0 +1,2 @@
+# happydogbugtracker
+Happydog服务器的bug提交页面。前往Issues提交服务器内bug。
