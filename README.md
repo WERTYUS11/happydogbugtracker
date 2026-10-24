@@ -1,2 +1,6 @@
 # Happydog服务器 Bug提交页面
-Happydog服务器的bug提交页面。前往Issues提交服务器内bug。
+
+1. 打开本仓库
+2. 点击"Issues"
+3. 点击"New issue"并按照步骤汇报
+4. 
